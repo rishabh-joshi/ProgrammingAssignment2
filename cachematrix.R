@@ -1,3 +1,6 @@
+# COURSERA DATA SCIENCE SPECIALIZATION - R PROGRAMMING
+# PEER ASSESSMENT
+
 # Below are two functions that are used to create a special object 
 # that stores a matrix and caches its inverse.
 
